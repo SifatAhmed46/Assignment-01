@@ -7,11 +7,12 @@ body {
 }
 
 .header {
-  display: flex;
+  display:  flex;
+  display:inline inline-block;
   justify-content: space-between;
   padding: 20px 40px;
   background-color: white;
- background-image: url(../Assets/Hero-bg.png);
+ background-image: url(../Assets/Hero-bg.png) ;height: 500px; width: 2000px;
 }
 
 .logo {
